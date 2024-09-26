@@ -84,10 +84,10 @@ value = "<?php if (isset($_POST['Password'])) echo $_POST ['Password'];?>" ></p>
 <p>&nbsp;</p>
 <p align = "left"><input id = "submit" type = "submit" name = "submit" value = "login"  />
     &nbsp;
-<p align = "left"><input id = "reset" type = "reset" name = "reset" value = "login"  />
+<p align = "left"><input id = "reset" type = "reset" name = "reset" value = "reset"  />
 
 <p align = "center"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Don't have an account?
-<a href= "register.php">Sign Up</a>
+<a href= "registerDoktor.php">Sign Up</a>
 
 </p>
 </div>
